@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![ujeongO's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujeongO)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujeongO)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ujeongO/ujeongO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
